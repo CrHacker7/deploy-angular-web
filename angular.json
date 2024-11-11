@@ -43,7 +43,6 @@
           },
           "configurations": {
             "production": {
-              "baseHref": "https://crhacker7.github.io/angular/02.bases",
               "budgets": [
                 {
                   "type": "initial",
